@@ -3,6 +3,9 @@
 Version: 0.1
 Shelly remote for rgbw2 for local network 
 
+this little javascript program performs fetch requests to a local shelly api to switch off / on some LED Stripes connected to the shelly device.
+it works with async/await.
+
 by now only two of four possible lines possible. 
 Simply add the other lines in the toggle function if you want to use more than two.
 
